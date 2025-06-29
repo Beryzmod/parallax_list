@@ -164,6 +164,34 @@ let conf = [
             color_primary : "#ABB2BF",
             color_secondary : "#cfcfcf"
 		},
+                {
+			icon : "fa-solid fa-music",
+			href : "https://music.youtube.com/",
+            target : "_blank",
+            color_primary : "#ABB2BF",
+            color_secondary : "#cfcfcf"
+		},
+                {
+			icon : "fa-solid fa-book",
+			href : "https://osaberdigital.com.br/",
+            target : "_blank",
+            color_primary : "#ABB2BF",
+            color_secondary : "#cfcfcf"
+		},
+                {
+			icon : "fa-solid fa-book",
+			href : "https://doceru.com/",
+            target : "_blank",
+            color_primary : "#ABB2BF",
+            color_secondary : "#cfcfcf"
+		},
+                {
+			icon : "fa fa-solid fa-clapperboard fa-lg",
+			href : "hhttps://animesdrive.blog/",
+            target : "_blank",
+            color_primary : "#ABB2BF",
+            color_secondary : "#cfcfcf"
+		},
 		{
 			icon : "fa fa-brands fa-twitch fa-lg",
 			href : "https://www.twitch.tv/",
