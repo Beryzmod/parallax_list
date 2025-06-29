@@ -173,7 +173,7 @@ let conf = [
 		},
                 {
 			icon : "fa-solid fa-book",
-			href : "https://osaberdigital.com.br/",
+			href : "https://sakuramangas.org/",
             target : "_blank",
             color_primary : "#ABB2BF",
             color_secondary : "#cfcfcf"
